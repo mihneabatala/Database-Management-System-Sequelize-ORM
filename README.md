@@ -1,1 +1,1 @@
-# Database Management System project with Sequelize implementation
+# Database Management System server with Sequelize implementation
